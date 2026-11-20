@@ -11,9 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Master of Laws, Yale Law School, 2026
+* Zweite Juristische Staatsprüfung (German Bar Exam equivalent), Freie und Hansestadt Hamburg, 2024
+* Doktor der Rechte (German Ph.D. in Law equivalent), Friedrich-Alexander-Universität Erlangen-Nürnberg, 2022
+* Master en droit européen (French J.D. equivalent), Université de Rennes 1, 2020
+* Erste Juristische Prüfung (German J.D. equivalent), Friedrich-Alexander-Universität Erlangen-Nürnberg, 2020
+* Maîtrise en droit européen, Université de Rennes 1, 2017
+* Licence en droit (French LL.B. equivalent), Université de Rennes 1, 2016
 
 Work experience
 ======
