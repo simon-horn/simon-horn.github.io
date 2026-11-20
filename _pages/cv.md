@@ -21,20 +21,28 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Since May 2024: Senior Research Fellow
+  * Max Planck Institute for Comparative and International Private Law
+  * Postdoctoral project on Forecasts in Business Law
+  * Supervisor: Professor Dr. Dr. h.c. Dr. h.c. Holger Fleischer, LL.M. (Michigan)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* April 2021 through January 2024: Research Assistant
+  * Max Planck Institute for Comparative and International Private Law
+  * Doctoral project on spillover effects of contracts in Conflict of Laws
+  * Supervisor: PD Dr. Jan Peter Schmidt
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
+* September through November 2023: Atypical Trainee
+  * European Commission, Directorate-General for Competition
+  * Work on the European Competition
   * Supervisor: Professor Git
+
+* October through December 2021: Trainee
+  * German Ministry of Justice
+ 
+* September 2020 through March 2021: Research Assistant
+  * Friedrich-Alexander-Universität Erlangen-Nürnberg
+  * Supervisor: Professor Dr. Mathias Rohe, M.A.
+  * Work on 
   
 Skills
 ======
@@ -62,7 +70,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
